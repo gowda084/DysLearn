@@ -48,6 +48,7 @@ npm install
 npm run dev
 
 Usage Instructions
+
 🎙️ Speech-to-Text:
 Click "Start Listening" to begin transcription. Your voice converts to text in real-time.
 
