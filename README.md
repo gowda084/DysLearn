@@ -36,8 +36,10 @@ It provides real-time **Speech-to-Text**, **Text-to-Speech**, **AI-powered Text 
 1️⃣ Clone the repository
 git clone https://github.com/gowda084/dyslearn.git
 cd dyslearn
+
 2️⃣ Install dependencies
 npm install
+
 3️⃣ Start the development server
 npm run dev
 
